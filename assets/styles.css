@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    align-items: center;
+    margin: 24px;
+}
+
+#screen {
+    margin: 24px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+#shutter {
+    padding: 12px;
+    font-size: 24px;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 12px;
+}
+
+#shutter:hover {
+    background-color: dodgerblue;
+}
